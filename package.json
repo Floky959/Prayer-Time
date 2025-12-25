@@ -1,7 +1,7 @@
 {
   "name": "prayer-times-app",
   "version": "0.1.0",
-  "homepage": "https://maamar404.github.io/prayer-times-app",
+  "homepage": "https://floky959.github.io/Prayer-Time",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
