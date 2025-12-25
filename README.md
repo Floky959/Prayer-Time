@@ -4,7 +4,6 @@ A beautiful, responsive React app for accurate prayer times across all Moroccan 
 
 ![React](https://img.shields.io/badge/React-18+-blue.svg)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-3+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## ✨ Features
 
