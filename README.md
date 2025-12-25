@@ -6,18 +6,14 @@ A beautiful, responsive React app for accurate prayer times across all Moroccan 
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-3+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
----
-
 ## ✨ Features
 
-- 🏙️ **400+ Moroccan cities** supported  
-- 🔍 **Smart search** with auto-complete  
-- ⌚ **Live prayer times** with next prayer indicator  
-- 📅 **Hijri & Gregorian** calendar dates  
-- 📱 **Fully responsive** design  
-- 🌐 **Arabic & English** prayer names  
-
----
+- 🏙️ **400+ Moroccan cities** supported
+- 🔍 **Smart search** with auto-complete
+- ⌚ **Live prayer times** with next prayer indicator
+- 📅 **Hijri**calendar dates
+- 📱 **Fully responsive** design
+- 🌐 **Arabic & English** prayer names
 
 ## 🚀 Quick Start
 
@@ -26,41 +22,42 @@ A beautiful, responsive React app for accurate prayer times across all Moroccan 
 git clone https://github.com/Floky959/prayer-times.git
 
 # Install dependencies
-cd prayer-times-morocco
+cd prayer-times
 npm install
 
 # Start the app
 npm start
+```
 
-Open http://localhost:3000
-in your browser.
-🛠️ Built With
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-    React — Frontend framework
+## 🛠️ Built With
 
-    Tailwind CSS — Styling
+- **React** - Frontend framework
+- **Tailwind CSS** - Styling
+- **Al-Adhan API** - Prayer times data (free, no API key needed)
 
-    Al-Adhan API — Prayer times data (free, no API key needed)
+## 📁 Structure
 
-📁 Structure
-
+```
 src/
 ├── App.js
 ├── components/
 │   ├── SearchBar.jsx
 │   └── PrayerTimes.jsx
+```
 
-🎯 Usage
+## 🎯 Usage
 
-    Type a Moroccan city name (e.g., Casablanca)
+1. Type a Moroccan city name (e.g., "Rabat")
+2. Select from suggestions or use quick buttons
+3. View prayer times with live updates
 
-    Select from suggestions or use quick buttons
 
-    View prayer times with live updates
+## 📄 License
 
-📄 License
+MIT License - see [LICENSE](LICENSE) file for details.
 
-MIT License — see LICENSE
-file for details.
+---
 
-Made with ❤️ for the Muslim community 🕌
+**Made with ❤️ for the Muslim community** 🕌
